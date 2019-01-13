@@ -1,10 +1,14 @@
 ---
 layout: page
-title: 熙壤数据
-subtitle: Trusted Data Partner
+<!-- title: AI Field -->
+<!-- subtitle: Trusted Data Partner -->
 ---
 
-Founded by [NYU CUSP](http://cusp.nyu.edu/) Graduate.
+Jostling and joyous,
+The whole world comes after profit;
+Racing and rioting,
+After profit the whole world goes!
+<!-- Founded by [NYU CUSP](http://cusp.nyu.edu/) Graduate. -->
 
 <!-- 
 My name is Inigo Montoya. I have the following qualities:
