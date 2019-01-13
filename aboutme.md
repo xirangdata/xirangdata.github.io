@@ -4,13 +4,15 @@ layout: page
 <!-- subtitle: Trusted Data Partner -->
 ---
 
-Jostling and joyous,  
+DATA IS BUDDHA.
+
+<!-- Jostling and joyous,  
 The whole world comes after profit;  
 Racing and rioting,  
 After profit the whole world goes!  
   
   
-天下熙熙，皆为利来，天下壤壤，皆为利往。  
+天下熙熙，皆为利来，天下壤壤，皆为利往。   -->
 
 <!-- Founded by [NYU CUSP](http://cusp.nyu.edu/) Graduate. -->
 
