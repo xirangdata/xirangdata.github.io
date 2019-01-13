@@ -4,7 +4,10 @@ layout: page
 <!-- subtitle: Trusted Data Partner -->
 ---
 
-DATA IS BUDDHA.
+[NYU CUSP](http://cusp.nyu.edu/) Graduate.
+
+
+<!-- . -->
 
 <!-- Jostling and joyous,  
 The whole world comes after profit;  
