@@ -4,10 +4,11 @@ layout: page
 <!-- subtitle: Trusted Data Partner -->
 ---
 
-Jostling and joyous,
-The whole world comes after profit;
-Racing and rioting,
-After profit the whole world goes!
+Jostling and joyous,  
+The whole world comes after profit;  
+Racing and rioting,  
+After profit the whole world goes!  
+
 <!-- Founded by [NYU CUSP](http://cusp.nyu.edu/) Graduate. -->
 
 <!-- 
