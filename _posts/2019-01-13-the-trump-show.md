@@ -4,7 +4,7 @@ title: The Trump Show, Season Two
 tags: [The Economist, Donald Trump]
 ---
 
-##[特普朗秀，第二季上演](https://www.economist.com/leaders/2019/01/05/what-to-expect-from-the-second-half-of-donald-trumps-first-term)  
+## [特普朗秀，第二季上演](https://www.economist.com/leaders/2019/01/05/what-to-expect-from-the-second-half-of-donald-trumps-first-term)  
 
 唐纳德・特普朗令人神经紧张的总统任期的第二个两年以联邦政府关门，波动的市场，驱逐令人放心的内阁成员像约翰・凯利和詹姆士・马蒂斯将军们开场。当特普朗的反对者认为这是一场灾难时，他的支持者斥责反对者的批评是滑稽的，正在一年前每个人都说内阁中有这么多将军太危险了。  
 
