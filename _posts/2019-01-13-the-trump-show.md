@@ -16,7 +16,7 @@ A calm assessemnt of the Trump era requires those who admire America to unplug t
 
 对特普朗时期的冷静评价需要那些仰慕美国的人暂时从新闻圈里抽离出来。当这四年总统任期的下一阶段开始的时候，有三个问题需要解答。现在有多糟糕？会变得多糟糕？还有美国人民和外国政府要怎么为特普朗秀的第二季作准备？   
 
-Turmp is so polarising that his critics brush off anything that might count as an achievement. Shortly before Christmas he signed a useful, bipartisan criminal-justice reform into law. Some of the regulatory changes to schools and companies have been  helpful. In foreign affairs the attemp to change the terms of America's economic relations with China is welcome, too. But any orthodox Republican president enjoying the backing of both houses of Congress might have achieved as much - or more.  
+Trump is so polarising that his critics brush off anything that might count as an achievement. Shortly before Christmas he signed a useful, bipartisan criminal-justice reform into law. Some of the regulatory changes to schools and companies have been  helpful. In foreign affairs the attemp to change the terms of America's economic relations with China is welcome, too. But any orthodox Republican president enjoying the backing of both houses of Congress might have achieved as much - or more.  
 
 特普朗太极端了以至他的批评者们忽视了任何可能被看作成绩的事情。圣诞节前，他签署了一个有益的双党联立的刑事司法改革，使其成为法律。一些对学校和公司的管理制度改变也很有用。对外事务上，试图改变中美经济关系的条款也值得欢迎。但是，任何一个传统的由国会两院支持的共和党总统都能实现这一些，甚至更多。  
 
@@ -40,7 +40,7 @@ Moreover, when Mr Trump acts, he does not recognise boundaries, legal or ethical
 
 而且，当特普朗行动时，他并不理会法治或者道德上的边界。他已经卷入两宗重罪，他的多名前任顾问正在监狱或正走向监狱。随着他的麻烦越来越多，他会变得更加不受制于机构制度。如果穆勒起诉他的家族成员，总统可能指示他的律师就此结束整个事情，然后动用臭名昭著的总统特赦权。众议院民主党也许能揭秘反映特普朗组织曾经帮俄国洗钱的文件。那之后呢？  
 
-Confusion, chaos and norm-breaking are how Mr Trump operates. If the federal government really were a business, the turnover of senior jobs in the White House would have investors dumping the stock. Mr Trump's interventions often accomplish the opposite of what he intends. His criticism of the Federal Reserve chairman, Jerome Powell, for being too hawkish will, if anything, only make an independent-minded Fed more hawkish still. His own negotiators fear that he might undermine them if the mood takes him. Most of the senior staff who have left administration have said he is self-absorbed, distracted and ill-informed. He demands absolute loyalty and, when he gets it, offers none in return.  
+Confusion, chaos and norm-breaking are how Mr Trump operates. If the federal government really were a business, the turnover of senior jobs in the White House would have investors dumping the stock. Mr Trump's interventions often accomplish the opposite of what he intends. His criticism of the Federal Reserve chairman, Jerome Powell, for being too hawkish will, if anything, only make an independent-minded Fed more hawkish still. His own negotiators fear that he might undermine them if the mood takes him. Most of the senior staff who have left administration have said that he is self-absorbed, distracted and ill-informed. He demands absolute loyalty and, when he gets it, offers none in return.  
 
 困惑、混乱和打破常规是特普朗的方式。如果联邦政府是一个商业机构，白宫高级职位的流动率会让投资者抛售股票。特普朗的干预往往起到他预想的反作用。他关于联邦储备主席杰罗姆・鲍威尔想法过于鹰派的指责，如果有作用，只让独立意志的联邦政府显得更加鹰派。他自己的幕僚害怕当他心情不好时对他们不利。大部分离开政府办事机构的资深人员说他自私，精神无法集中和偏听。他要求绝对的忠诚，但当得到后又不会回报。  
 
@@ -52,7 +52,7 @@ The Republicans in the Senate find themselves in a familiar dilemma. Speak out a
 
 参议院的共和党人发现他们处于一个熟悉的窘境。说出来，冒失去初选位置的险；保持沉默，冒党派失败和良心沦丧的险。更多人应该像米特・罗姆尼，以对特普朗行为的批评来表明自己这周来到参议院。他重回政坛是受欢迎的，正如中期选举所体现的社会人士和团体对特普朗的有力反对。被他的任期伤害后，美国民主正在回击。  
 
-After two chaotic years, it is clear that the Trump Show is something to be endured. Perhaps the luck will hold and Amerca and the would will muddle through. But luck is a slender hope on which to build prosperity and peace.  
+After two chaotic years, it is clear that the Trump Show is something to be endured. Perhaps the luck will hold and Amerca and the world will muddle through. But luck is a slender hope on which to build prosperity and peace.  
 
 经过混乱的两年，很明显特普朗秀很难熬。或许幸运将持续，美国和世界会撑过去。但是，单靠幸运是没办法建立繁荣和和平的。    
 
