@@ -4,7 +4,7 @@ layout: page
 <!-- subtitle: Trusted Data Partner -->
 ---
 
-[NYU CUSP](http://cusp.nyu.edu/) Graduate.
+[NYU CUSP](http://cusp.nyu.edu/) Graduate. Leave your comments under posts or find me at gang[dot]zhao[at]nyu[dot]edu.  
 
 
 <!-- . -->
