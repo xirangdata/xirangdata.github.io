@@ -66,7 +66,7 @@ apt-get install -y --no-install-recommends libnvinfer-dev=5.0.2-1+cuda10.0
 ```  
 
 2. Install Keras  
-[Anaconda](https://www.anaconda.com/) is the best choice to save your ass.  
+[Anaconda](https://www.anaconda.com/) is the best choice to save your ass, please install.  
 ```
 conda create -n dl python=3.6 anaconda  
 conda activate dl  
