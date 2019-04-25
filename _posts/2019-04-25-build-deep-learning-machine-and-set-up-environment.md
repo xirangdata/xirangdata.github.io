@@ -4,19 +4,19 @@ title: Build Deep Learning Machine and Set Up Environment
 tags: [Deep Learning, Build Machine, TITAN RTX, Tensorflow, Keras, Anaconda]
 ---
 
-Always excited to build a new Deep Learning machine! Recently got budget around CNY¥60000, and it's time to have an upgrade. After searching around and compare different hardwares for days, I finally figured out the following build:
+Always excited to build a new Deep Learning machine! Recently got budget around CNY¥60000, and it's time to have an upgrade. After searching around and compare different hardwares for days, I finally figured out the following build.
 
 <br />
 
 ## [Specs](https://pcpartpicker.com/list/xFDjTB)
 GPU: `NVIDIA TITAN RTX × 2`  
 CPU: `Intel i9 7900X`  
-Motherboard: `ASUS ROG STRIX X299-E GAMING`
-Memory: `USCORSAIR DDR4 3200 32GB 16G x 2`
-Storage: `SAMSUNG 970 PRO 512G NVMe M.2`
-Case: `USCORSAIR AIR540`
-Power Supply: `USCORSAIR HX1000i`
-CPU Cooler: `Cooler Master T400 Pro CPU`
+Motherboard: `ASUS ROG STRIX X299-E GAMING`  
+Memory: `USCORSAIR DDR4 3200 32GB 16G x 2`  
+Storage: `SAMSUNG 970 PRO 512G NVMe M.2`  
+Case: `USCORSAIR AIR540`  
+Power Supply: `USCORSAIR HX1000i`  
+CPU Cooler: `Cooler Master T400 Pro CPU`  
 
 <br />
 
@@ -59,22 +59,19 @@ Then we also need some improvise.
 ```
 sudo apt-get update  
 sudo apt-get install nvinfer-runtime-trt-repo-ubuntu1804-5.0.2-ga-cuda10.0  
-sudo apt-get update
 apt-mark hold libcudnn7  
-apt-mark hold cuda*  
 apt-get update  
 apt-get install -y --no-install-recommends libnvinfer5=5.0.2-1+cuda10.0  
 apt-get install -y --no-install-recommends libnvinfer-dev=5.0.2-1+cuda10.0  
 ```  
 
 2. Install Keras  
+
 [Anaconda](https://www.anaconda.com/) is the best choice to save your ass.  
 ```
 conda create -n dl python=3.6 anaconda  
 conda activate dl  
-pip install tensorflow-gpu
+pip install tensorflow-gpu  
 pip install keras
 ```  
-<br />
-
 And that's it! Love you 3000 times.
